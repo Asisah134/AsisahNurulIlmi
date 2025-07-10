@@ -60,7 +60,7 @@ function App() {
           <p>
             Email: asisah.ilmi@email.com<br />
             Instagram: @asisah.ilmi<br />
-            LinkedIn: linkedin.com/in/asisah-ilmi
+            
           </p>
         </section>
       </main>
